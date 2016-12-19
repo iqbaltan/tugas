@@ -1,6 +1,6 @@
-FreedCamp !
-[enter image description here](http://xarxanet.org/sites/default/files/freedcamp.jpg)
+FreedCamp 
 ==================
+![enter image description here](http://xarxanet.org/sites/default/files/freedcamp.jpg)
 ----------
 
 Apa itu FreedCamp?
