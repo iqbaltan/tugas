@@ -1,4 +1,4 @@
-FreedCamp 
+FreedCamp - Collaboration Software
 ==================
 ![enter image description here](http://xarxanet.org/sites/default/files/freedcamp.jpg)
 ----------
